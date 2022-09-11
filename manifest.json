@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "A Better Paulgraham.com",
+    "version": "1.0.0",
+    "description": "Better reading experience on paulgramham.com",
+    "icons": {
+        "16": "icons/abp16.png",
+        "32": "icons/abp32.png",
+        "48": "icons/abp48.png",
+        "128": "icons/abp128.png"
+    },
+    "content_scripts": [
+        {
+            "matches": ["*://*.paulgraham.com/*"],
+            "js": ["src/main.js"]
+        }
+    ]
+}
