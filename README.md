@@ -2,7 +2,7 @@
 
 ## What is it?
 
-A Browser Extension for better experience on paulgraham.com
+A Browser Extension for better experience on http://www.paulgraham.com
 
 ## Download: 
 - Firefox: https://addons.mozilla.org/en-US/firefox/addon/a-better-paulgraham-com/
